@@ -1,7 +1,9 @@
+package assignment_3_Menu_System;
+
 public class RestaurantApp {
     public static void main(String[] args) {
-        MenuComponent dinnerMenu = new Menu("Dinner Menu", "Evening meals");
-        MenuComponent lunchMenu = new Menu("Lunch Menu", "Afternoon meals");
+        MenuComponent dinnerMenu = new Menu("Dinner assignment_3_Menu_System.Menu", "Evening meals");
+        MenuComponent lunchMenu = new Menu("Lunch assignment_3_Menu_System.Menu", "Afternoon meals");
 
         MenuComponent allMenus = new Menu("All Menus", "All available menus");
 

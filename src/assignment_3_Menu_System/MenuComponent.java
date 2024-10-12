@@ -1,3 +1,5 @@
+package assignment_3_Menu_System;
+
 public abstract class MenuComponent {
     public String getName() { throw new UnsupportedOperationException(); }
     public String getDescription() { throw new UnsupportedOperationException(); }

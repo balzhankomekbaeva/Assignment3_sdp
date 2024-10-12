@@ -1,3 +1,5 @@
+package assignment_3_Menu_System;
+
 public class MenuItem extends MenuComponent {
     private String name;
     private String description;
